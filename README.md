@@ -7,14 +7,12 @@
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=rosereyaaa&show_icons=true&theme=radical&rank_icon=github" />
+    <img align="left"  src="https://github-readme-stats.vercel.app/api?username=rosereyaaa&show_icons=true&theme=radical&rank_icon=github" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img align="right" width=390 src="https://streak-stats.demolab.com?user=rosereyaaa&theme=radical"/>
+    <img align="right"  src="https://streak-stats.demolab.com?user=rosereyaaa&theme=radical"/>
   </a>
-</div>
-<br>
-<div align=center>
+  <br><br><br><br><br><br><br><br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosereyaaa&layout=compact&theme=radical"/>
   </a>
