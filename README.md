@@ -7,10 +7,10 @@
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rosereyaaa&show_icons=true&theme=radical&rank_icon=github" />
+    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=rosereyaaa&show_icons=true&theme=radical&rank_icon=github" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img align="right" src="https://streak-stats.demolab.com?user=rosereyaaa&theme=radical"/>
+    <img align="right" width=390 src="https://streak-stats.demolab.com?user=rosereyaaa&theme=radical"/>
   </a>
 </div>
 <br>
