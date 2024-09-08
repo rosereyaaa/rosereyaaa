@@ -3,7 +3,7 @@
 - ✨ Fun fact: I hate mangoes
 - 🌱 Currently, I'm figuring out what will be my career after college (in other words, i'm having an *existential crisis*)
 - 💌 You can reach me via my email at `rhyearaven@gmail.com`
-
+  
 ## GitHub Stats
 <div align="center">
   <p align="center">
@@ -14,3 +14,4 @@
     <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosereyaaa&layout=compact&theme=radical"/>
   </p>
 </div>
+
