@@ -1,7 +1,7 @@
 # Hello
 - 🌸 I'm **Rhyea**, and in my last year of studying Information Technology at the Technological University of the Philippines - Taguig 
 - ✨ Fun fact: I hate mangoes
-- 🌱 Currently, I'm figuring out what will be my career after college (in other words, i'm having an *existential crisis*)
+- 🌱 Currently, I'm learning *Python*
 - 💌 You can reach me via my email at `rhyearaven@gmail.com`
 - 💻 Or you can also check my [**portfolio**](https://roserey-portfolio.vercel.app/)
   
